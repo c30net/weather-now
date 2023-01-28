@@ -1,0 +1,27 @@
+.App,
+.Form {
+  font-family: "Nanum Myeongjo", sans-serif;
+  text-align: center;
+}
+
+.App {
+  max-width: 70vw;
+  margin: 0 auto;
+}
+
+#root {
+  background: linear-gradient(
+    0deg,
+    rgb(150, 110, 140) 45%,
+    rgb(161, 127, 161) 65.3%
+  );
+  color: white;
+  padding: 50px;
+  margin: 30px;
+  font-size: 130%;
+}
+
+h1 {
+  font-size: 50px;
+  font-weight: 500;
+}
