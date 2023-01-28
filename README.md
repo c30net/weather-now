@@ -1,3 +1,7 @@
+This app is being deployed here 
+https://sprightly-dragon-10c1e8.netlify.app/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
