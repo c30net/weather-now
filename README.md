@@ -1,5 +1,4 @@
-This app is being deployed here 
-https://sprightly-dragon-10c1e8.netlify.app/
+
 
 
 # Getting Started with Create React App
